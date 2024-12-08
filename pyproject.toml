@@ -1,0 +1,10 @@
+[project]
+name = "ollama-structured"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "instructor>=1.7.0",
+    "ollama>=0.4.3",
+]

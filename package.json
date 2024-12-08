@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ollama": "^0.5.11",
+    "zod": "^3.23.8",
+    "zod-to-json-schema": "^3.23.5"
+  },
+  "type": "module"
+}
